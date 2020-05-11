@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://cosmonerd.com.br//uploads/2019/12/Imagem-promocional-da-2%C2%AA-parte-da-2%C2%AA-parte-de-Sword-Art-Online-Alicization-1-1-e1577555276646.jpg);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .titulo {
+    text-align: center;
+    color: darkgoldenrod;
+    text-decoration: underline;  
+  }
+   
+  .subtitulo {
+    text-align: center;
+    color: darkblue;
+  }
