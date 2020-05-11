@@ -1,0 +1,14 @@
+body {
+    background: cyan;
+  }
+  
+  .subtitulo,
+  .titulo {
+    text-align: center;
+    color: blue;
+    text-decoration: underline;  
+  }
+   
+  .subtitulo {
+    text-decoration: none;
+  }
